@@ -8,10 +8,11 @@ The user enters the coordinates of two points, `(x1, y1)` and `(x2, y2)`. The pr
 
 ## How to Run
 
-1. Open the program file in **VS Code, Replit, or Google Colab**.
-2. Run the program.
-3. Enter the values for `x1`, `y1`, `x2`, and `y2`.
-4. The program will display the distance between the two points.
+1.Open the program file in VS Code, Replit, or Google Colab.
+2.Run the program.
+3.Enter the x-coordinate and y-coordinate of the first point.
+4.Enter the x-coordinate and y-coordinate of the second point.
+5.The program will display the distance between the two points.
 
 ## Input Needed
 
@@ -34,4 +35,4 @@ The distance between the two points is: 7.07
 ## Author
 
 **Name:** Sophia Castielle Burgonio
-**Section:** 8-Sampaguita
+**Section:** 8-Adelfa
